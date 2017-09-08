@@ -1,0 +1,24 @@
+{
+  "name": "vuejs_sect02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manwize/ud-vueJS.git"
+  },
+  "author": "ML",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manwize/ud-vueJS/issues"
+  },
+  "homepage": "https://github.com/manwize/ud-vueJS#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "vue": "^2.4.2"
+  }
+}
